@@ -1,11 +1,15 @@
-# How to run
+# Electron app
+
+Hello world.
 
 ## Install electron
-```zsh
-% npm install -g electron
+
+```bash
+$ npm install -g electron
 ```
 
-## Run application by Electron
-```zsh
-% electron .
+## Run
+
+```bash
+$ electron .
 ```
